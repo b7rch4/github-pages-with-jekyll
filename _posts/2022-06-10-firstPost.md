@@ -1,1 +1,6 @@
-# My first post!
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
+# Welcome
